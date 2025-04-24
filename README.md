@@ -36,11 +36,11 @@ Instale-os com:
 install.packages(c("tidyverse", "ggthemes"))
 ```
 
-## 💡 Dica
+## 🚨 Atenção
 
 Os gráficos estão em escala logarítmica para facilitar a visualização comparativa entre estados com populações muito distintas. Explore os filtros, agregações e temas sugeridos no script e nos slides para adaptar as análises às suas perguntas.
 
-## 🧠 Inspiração
+<br>
 
 > "A informação no mundo dobra a cada 20 meses."  
 > — Thomas Runkle (2012)
